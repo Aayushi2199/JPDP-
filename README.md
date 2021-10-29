@@ -1,2 +1,2 @@
 "# Eclipse Project" 
-A basic web form with JsonPowerDBB (CRUD)
+A basic web form with JsonPowerDB (CRUD)
